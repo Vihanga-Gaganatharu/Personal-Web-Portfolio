@@ -6,7 +6,7 @@
 
   <h2 align="center">Personal Web Site</h2>
 
-  <a href="#"><strong>➥ Live Demo</strong></a>
+  <a href="https://vihanga-gaganatharu.github.io/Personal-Web-Portfolio/"><strong>➥ Live Demo</strong></a>
 
 
 
